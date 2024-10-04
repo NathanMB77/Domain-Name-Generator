@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: darkgray;
+}
+
+text {
+  color: lightgray;
+}
